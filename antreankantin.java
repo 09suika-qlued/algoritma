@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class antreankantin {
     public static void main(String[] args) {
-        // Membuat object Scanner untuk membaca input dari keyboard
+        
         Scanner input = new Scanner(System.in);
 
         
