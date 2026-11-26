@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "urutanNilai",
+            "request": "launch",
+            "mainClass": "urutanNilai",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CekAnggota",
+            "request": "launch",
+            "mainClass": "CekAnggota",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "DurasiBelajar",
+            "request": "launch",
+            "mainClass": "DurasiBelajar",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "HitungMundur",
+            "request": "launch",
+            "mainClass": "HitungMundur",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "Kelipatan4",
+            "request": "launch",
+            "mainClass": "Kelipatan4",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "KelipatanTiga",
+            "request": "launch",
+            "mainClass": "KelipatanTiga",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "MenghitungBiayaPerjalanan",
+            "request": "launch",
+            "mainClass": "MenghitungBiayaPerjalanan",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "MesinMinuman",
+            "request": "launch",
+            "mainClass": "MesinMinuman",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "PolaPerkalian",
+            "request": "launch",
+            "mainClass": "PolaPerkalian",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "StringKalimat",
+            "request": "launch",
+            "mainClass": "StringKalimat",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "antreankantin",
+            "request": "launch",
+            "mainClass": "antreankantin",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "bolehpinjam",
+            "request": "launch",
+            "mainClass": "bolehpinjam",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "suhu",
+            "request": "launch",
+            "mainClass": "suhu",
+            "projectName": "tugas-rekap_1fd6940c"
+        },
+        {
+            "type": "java",
+            "name": "syaratlomba",
+            "request": "launch",
+            "mainClass": "syaratlomba",
+            "projectName": "tugas-rekap_1fd6940c"
+        }
+    ]
+}
